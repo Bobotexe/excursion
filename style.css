@@ -1,0 +1,30 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    position: static;
+    ;
+}
+
+#link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+#travel {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 21px;
+    color: grey;
+}
